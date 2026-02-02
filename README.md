@@ -4,7 +4,7 @@ This project simulates a **real-world e-commerce analytics pipeline**, from synt
 ### 🗄️ Tables
 | Table | Description |
 |--------|-------------|
-| customers | Stores customer information including name, email, and country |
+| `customers` | Stores customer information including name, email, and country |
 | `categories` | Contains product category details |
 | `products` | Holds product names, prices, and links to categories |
 | `orders` | Represents customer orders and their order statuses |
@@ -22,20 +22,21 @@ Each table is linked through **foreign keys**, ensuring referential integrity an
 - Git/GitHub
 
 
-## 📈 Analytics Use Cases
-- Revenue and net revenue analysis
-- Customer lifetime value (CLV)
-- Cohort analysis
-- Product Performance analysis
-- Return rate analysis
-- Delivery performance
+## 📈 Business Questions Answered
+- Which countries generate highest revenue?
+- What are the top revenue generating products and categories?
+- Who are the highest value customers?
+- How does revenue trend over time?
+- What percentage of customers are repeat biyers>
+- What is the return rate and average refund lag?
+- Are orders being delivered on time?
 
 
-## 📊 Power BI Dashboard
-- Revenue Overview
-- Customer Insights
+## 📊 Power BI Dashboard Pages
+- Executive Overview
 - Product Performance
-- Returns and Refunds analysis 
+- Customer Insights
+- Returns and Refunds Analytics 
 
 
 

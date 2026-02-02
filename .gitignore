@@ -5,3 +5,4 @@ __pycache__/
 
 check/
 database/ecommerce_data.sql
+database/sql_queries/full*
