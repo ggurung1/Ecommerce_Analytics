@@ -1,5 +1,5 @@
 # E-commerce Project
-[![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white)](https://www.python.org)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)](https://www.python.org)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -30,7 +30,7 @@ Each table is linked through **foreign keys**, ensuring logical relational struc
 
 ### Entity-Relationship Diagram
 <div align="center"> 
-<img src="images/ER_diagam.png" width="900" height="200"> 
+<img src="images/ER_diagram.png" width="900" height="200"> 
 </div>
 
 ## 💻 Tech Stack
@@ -86,4 +86,3 @@ Retrun & Operation KPIs, Return reason distribution, Monthly return rate rends, 
 - **Python** 3.8 or higher
 - **MySQL** 8.0 or higher
 - **Power BI Desktop**
-- **Git**
