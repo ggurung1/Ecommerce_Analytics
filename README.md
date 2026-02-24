@@ -30,7 +30,7 @@ Each table is linked through **foreign keys**, ensuring logical relational struc
 
 ### Entity-Relationship Diagram
 <div align="center"> 
-<img src="images/ER_diagram.png" width="900" height="200"> 
+<img src="images/ER_diagram.png" width="900" height="450"> 
 </div>
 
 ## 💻 Tech Stack
@@ -64,16 +64,16 @@ Executive KPIs, Monthly Gross Revenue trends, Top countries by revenue
 ### 2. Product & Category Analysis
 Product & Category level KPIs,Revenue trends by category/product, Dynamic axis switching, Pareto analysis, Performance segementation, Category-level filtering via slicers
 <div align="center"> 
-<img src="images/Category.png" width="450"> 
-<img src="images/Product.png" width="450"> 
+<img src="images/Category.png" width="900"> 
+<img src="images/Product.png" width="900"> 
 </div>
 
 
 ### 3. Customer Analysis
 Customer level KPIs, New customer trends, Top 10 customers by revenue, Customer order frequency & payment behavior insights, Country-level filtering via slicers
 <div align="center"> 
-<img src="images/Customer.png" width="450"> 
-<img src="images/CustomerCountry.png" width="450">  
+<img src="images/Customer.png" width="900"> 
+<img src="images/CustomerCountry.png" width="900">  
 </div>
 
 ### 4. Return & Operation Analysis
