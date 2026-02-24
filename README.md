@@ -29,7 +29,9 @@ This project simulates a **real-world e-commerce data analysis**, from synthetic
 Each table is linked through **foreign keys**, ensuring logical relational structure.
 
 ### Entity-Relationship Diagram
-<div align="center"> <img src="images/ER_diagam.png" width="900"> </div>
+<div align="center"> 
+<img src="images/ER_diagam.png" width="900" height="200"> 
+</div>
 
 ## 💻 Tech Stack
 - **Data Generation** - Python(pandas,faker,numpy)
@@ -55,16 +57,30 @@ SQL queries are located in databses/queries and they answer key business questio
 Interactive dashboard is organized into four  pages:
 ### 1. Sales Overview
 Executive KPIs, Monthly Gross Revenue trends, Top countries by revenue
-<div align="center"> <img src="images/Sales.png" width="900"> </div>
+<div align="center"> 
+<img src="images/Sales.png" width="900"> 
+</div>
 
 ### 2. Product & Category Analysis
 Product & Category level KPIs,Revenue trends by category/product, Dynamic axis switching, Pareto analysis, Performance segementation, Category-level filtering via slicers
+<div align="center"> 
+<img src="images/Category.png" width="450"> 
+<img src="images/Product.png" width="450"> 
+</div>
+
 
 ### 3. Customer Analysis
 Customer level KPIs, New customer trends, Top 10 customers by revenue, Customer order frequency & payment behavior insights, Country-level filtering via slicers
+<div align="center"> 
+<img src="images/Customer.png" width="450"> 
+<img src="images/CustomerCountry.png" width="450">  
+</div>
 
 ### 4. Return & Operation Analysis
 Retrun & Operation KPIs, Return reason distribution, Monthly return rate rends, Average delivery time analysis, Top 5 countries by return rate
+<div align="center"> 
+<img src="images/Return.png" width="900"> 
+</div>
 
 ### Prerequisites
 - **Python** 3.8 or higher
