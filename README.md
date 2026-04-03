@@ -42,6 +42,7 @@ Each table is linked through **foreign keys**, ensuring logical relational struc
 <div align="center">
 <img src="images/ER_diagram.png" width="900" height="450">
 </div>
+</details>
 
 
 ---
