@@ -16,7 +16,7 @@
 This end-to-end analytics project simulates **real-world e-commerce scenarios like Amazon, Shopify, or any online retailers**, transforming raw transactional data into actionable insights across **Sales, Product, Customer, and Operations** departments. This project will help the departments to understand GG Mart's performance, identify growth opportunities, and support strategic decision making. 
 
 <details>
-<summary> Data & Tech Info >
+<summary> Data & Tech Info </summary>
 **Tech Stack**: Python (data cleaning & ETL), MySQL, Tableau Public/Power BI (interactive dashboards)
 **Dataset**: 
 - Synthetic but realistic e-commerce cdataset
