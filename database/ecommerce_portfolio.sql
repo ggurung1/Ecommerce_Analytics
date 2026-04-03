@@ -41,9 +41,6 @@ CREATE TABLE orders (
 	order_status ENUM('Pending','Shipped','Delivered','Cancelled') DEFAULT 'Pending',
 	shipped_date DATE NULL,
 	delivered_date DATE NULL,
-	tax_amount DECIMAL(10,2) NOT NULL,
-	shipping_fee DECIMAL(10,2) NOT NULL,
-	discount_amount DECIMAL(10,2) NOT NULL,
 	order_total DECIMAL(10,2) NOT NULL,	
 	FOREIGN KEY (customer_id) REFERENCES customers(customer_id)
 );
