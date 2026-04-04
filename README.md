@@ -86,15 +86,15 @@ I have translated the raw findings into clear, department specific insights and 
 **Key Findings (2025)**
 - **Gross Revenue: \$13M** but declined by **2.1%** compared to last year
 - **Delivered Orders**: 4075 out of 4339 total orders
-- **Average Order Value (AOV)**: **\$3.30K**
+- **Average Order Value (AOV)**: **\$3.3K**
 
 **Performance Insights**
 
 Revenue decline is driven by both lower order volume and AOV. Business growth momentum has slowed down compared to last year.
-**Geographic Performance**:
-- **Strong markets**: USA, Germany, Japan, and France delivered above average revenue per market in 2025.
-- **Underperforming markets**: China, Canada, UK, and Australia have revenue below average revenue.
-- France, China, Canada, and  UK are near average markets and represent quick win oppotrunities with targeted promotions.
+- **Geographic Performance**:
+	- **Strong markets**: USA, Germany, Japan, and France delivered above average revenue per market in 2025.
+	- **Underperforming markets**: China, Canada, UK, and Australia have revenue below average revenue.
+	- France, China, Canada, and  UK are near average markets and represent quick win oppotrunities with targeted promotions.
 
 ### 2. Product & Category Analysis
 
@@ -109,7 +109,7 @@ Revenue decline is driven by both lower order volume and AOV. Business growth mo
 - Top 15 producst (out of 40) generates **78%** of total revenue. This products are heavily concentrated in Electronics, Furniture, and Clothing.
 - **Couch, Bicycle, Dress, Series, Sweater, Shoes, Chair, and Legos** are **Star Products** with High Revenue and High Quantity(**HH**). Dress, Series, Sweater sit firmly in the **HH** quadrant. So, these products should be protected and scaled.
 - **Sofa and bed** are **Premium products** with **High revenue but Low quantity (HL)** and tending to Higher Quantity sales as well.  With targeted promotions, they can be pushed to **HH** and possibility of a reliable source for revenue generations.
-- Several **Volume drivers** with **Low revenue but High quantity (LH)** are on borderline to be **Star Products**
+- Several **Volume drivers** with **Low revenue but High quantity (LH)** are on the borderline and high probability of becoming  **Star Products**
 - **Speaker** is a clear **Underperformer** with **Low revenue and Low Quantity (LL)** indicating limited contribution and potential for repositioning.
 
 
@@ -151,10 +151,10 @@ Business is heavily reliant on small product group. Product demand cycle is high
 </table>
 
 **Key Findings**
-- Total Customers is about 3.5K (reduced by 1.11% vs LY)
+- Total Customers is about 3.5K (reduced by 1.1% vs LY)
 - New Customers acquired is only 161
 - Revenue contribution is mostly from medium-value customers.
-- **73%** customers are one time buyers, **22%** are repeat buyers and **4.5%** are loyal customers.
+- **73%** customers are one time buyers, **22%** are repeat buyers and **5%%** are loyal customers.
 
 **Peformance Insights**
 
