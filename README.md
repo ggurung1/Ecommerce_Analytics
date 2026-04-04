@@ -1,5 +1,4 @@
 # GG Mart E-commerce Analysis
-----------------------------
 #### End-to-End Business Intelligence Project
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)](https://www.python.org)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com)
@@ -13,12 +12,13 @@
 
 **GG Mart** is a **fictional global e-commerce company** founded in 2020 offering products across six categories namely **Electronics**, **Clothing**, **Books**, **Furniture**, **Sports**, and **Toys**. 
 
-This end-to-end analytics project simulates **real-world e-commerce scenarios like Amazon, Shopify, or any online retailers**, transforming raw transactional data into actionable insights across **Sales, Product, Customer, and Operations** departments. This project will help the departments to understand GG Mart's performance, identify growth opportunities, and support strategic decision making. 
+This end-to-end analytics project that simulate **real-world e-commerce scenarios like Amazon, Shopify, or any online retailers** and transform raw transactional data into actionable insights across **Sales, Product, Customer, and Operations** departments. This project will help the departments to understand GG Mart's performance, identify growth opportunities, and support strategic decision making. 
 
 <details>
 <summary> Data & Tech Info </summary>
 
 **Tech Stack**: Python (data cleaning & ETL), MySQL, Tableau Public/Power BI (interactive dashboards)
+
 **Dataset**: 
 - Synthetic but realistic e-commerce dataset
 - Time period: **2020-Present**
@@ -41,6 +41,7 @@ Each table is linked through **foreign keys**, ensuring logical relational struc
 ### Entity-Relationship Diagram
 <div align="center">
 <img src="images/ER_diagram.png" width="900" height="450">
+<p><b>Fig. 0.</b> Entity Relationship Diagram.</p>
 </div>
 </details>
 
@@ -73,13 +74,13 @@ GG Mart Stakeholders across different departments wants to better understand per
 </details>
 
 
-## 📊 Business Insights & Recommendations
-I have translated the raw findings into clear, department specific insights and provided recommendations.
+## Business Insights 
+I have translated the raw findings into clear, department specific insights and provided recommendations accordingly.
 
 ### 1. Sales Overview
 <div align="center"> 
     <img src="images/salesoverview.png" width="900"> 
-<p align="center"><b>Fig. 1.</b> Overall sales performance and trends for 2025.</p>
+<p><b>Fig. 1.</b> Overall sales performance and trends for 2025.</p>
 </div>
 
 **Key Findings (2025)**
@@ -99,8 +100,8 @@ Revenue decline is driven by both lower order volume and AOV. Business growth mo
 
 <div align="center"> 
     <img src="images/pareto.png" width="400"> 
-<p align="center">
-<b>Fig. 2.</b> Pareto analysis of product revenue showing that the top 15 products contribute approximately $80\%$ of total gross revenue. The dotted line indicates the 80\% cumulative revenue threshold used to identify the most impactful products.
+<p>
+<b>Fig. 2.</b> Pareto analysis of product revenue showing that the top 15 products contribute approximately 80% of total gross revenue. The dotted line indicates the 80% cumulative revenue threshold used to identify the most impactful products.
 </p>
 </div> 
 
@@ -143,7 +144,7 @@ Business is heavily reliant on small product group. Product demand cycle is high
       <b>Fig. 4(a).</b> Customer segmentation into High Value (Revenue $\ge$ 8000), Medium Value (Revenue $\le$ 2500), and Low Value
     </td>
     <td align="center">
-      <img src="images/productquadrant.png" width="400"><br>
+      <img src="images/customerdistributionorder.png" width="400"><br>
       <b>Fig. 4(b).</b> Customer distribution by order frequency. 
     </td>
   </tr>
@@ -184,7 +185,7 @@ Retention is weak indicating low customer lifetime value.
 
 Logistics inefficiencies and product expectation mismatch are driving returns.Long return times indicate complicated return procedures or delayed customer action. This will result in longer wait time for resale of return items.
 
-### Recommendations
+## Recommendations
 
 **Sales Strategy**
 - Introduce bundling and upselling to increase AOV
