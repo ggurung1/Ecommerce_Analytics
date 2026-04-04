@@ -17,6 +17,7 @@ This end-to-end analytics project simulates **real-world e-commerce scenarios li
 
 <details>
 <summary> Data & Tech Info </summary>
+
 **Tech Stack**: Python (data cleaning & ETL), MySQL, Tableau Public/Power BI (interactive dashboards)
 **Dataset**: 
 - Synthetic but realistic e-commerce cdataset
