@@ -74,6 +74,9 @@ GG Mart Stakeholders across different departments wants to better understand per
 </details>
 
 
+## Tableau Dashboard
+**Live Dashboard:** [https://public.tableau.com/views/GGMartDashboard/SalesOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+
 ## Business Insights 
 I have translated the raw findings into clear, department specific insights and provided recommendations accordingly.
 
