@@ -142,12 +142,16 @@ Business is heavily reliant on small product group. Product demand cycle is high
 <table align="center">
   <tr>
     <td align="center">
-      <img src="images/customersegmentation.png" width="400"><br>
-      <b>Fig. 4(a).</b> Customer segmentation into High Value (Revenue $\ge$ 8000), Medium Value (Revenue $\le$ 2500), and Low Value
+      <img src="images/customersegmentation.png" 
+           style="width: 400px; height: 300px; object-fit: contain; background-color: #f0f0f0;">
+      <br>
+      <b>Fig. 4(a).</b> Customer segmentation into High Value (Revenue $\ge$ 8000), Medium Value (Revenue $\ge$ 2500), and Low Value
     </td>
     <td align="center">
-      <img src="images/customerdistributionorder.png" width="400"><br>
-      <b>Fig. 4(b).</b> Customer distribution by order frequency. 
+      <img src="images/customerdistributionorder.png" 
+           style="width: 400px; height: 300px; object-fit: contain; background-color: #f0f0f0;">
+      <br>
+      <b>Fig. 4(b).</b> Customer distribution by order frequency.
     </td>
   </tr>
 </table>
