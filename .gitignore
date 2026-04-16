@@ -1,8 +1,0 @@
-.DS_Store
-__pycache__/
-*.pyc
-.env
-dw_/
-check/
-database/ecommerce_data.sql
-database/sql_queries/full*
