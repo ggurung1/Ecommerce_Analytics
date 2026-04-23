@@ -10,9 +10,9 @@
   <img src="images/GGMart.jpg" alt="GGMart Logo" width="200" height="200">
 </p>
 
-**GG Mart** is a **fictional global e-commerce company** founded in 2020 offering products across six categories namely **Electronics**, **Clothing**, **Books**, **Furniture**, **Sports**, and **Toys**. 
+**GG Mart** is a **global e-commerce company** founded in 2020 offering products across six categories namely **Electronics**, **Clothing**, **Books**, **Furniture**, **Sports**, and **Toys**. 
 
-This end-to-end analytics project that simulate **real-world e-commerce scenarios like Amazon, Shopify, or any online retailers** and transform raw transactional data into actionable insights across **Sales, Product, Customer, and Operations** departments. This project will help the departments to understand GG Mart's performance, identify growth opportunities, and support strategic decision making. 
+This is an end-to-end analytics project that transform raw transactional data into actionable insights across **Sales, Product, Customer, and Operations** departments. This project will help the departments to understand GG Mart's performance, identify growth opportunities, and support strategic decision making. 
 
 <details>
 <summary> Data & Tech Info </summary>
@@ -20,7 +20,7 @@ This end-to-end analytics project that simulate **real-world e-commerce scenario
 **Tech Stack**: Python (data cleaning & ETL), MySQL, Tableau Public/Power BI (interactive dashboards)
 
 **Dataset**: 
-- Synthetic but realistic e-commerce dataset
+- E-commerce dataset
 - Time period: **2020-Present**
 
 ## Database Schema
@@ -41,7 +41,7 @@ Each table is linked through **foreign keys**, ensuring logical relational struc
 ### Entity-Relationship Diagram
 <div align="center">
 <img src="images/ER_diagram.png" width="900" height="450">
-<p><b>Fig. 0.</b> Entity Relationship Diagram.</p>
+<p><b>Fig. 0.</b> Entity Relationship Diagram. There are seven tables connected by dotted lines highlighting one to many relationships through foreign keys. </p>
 </div>
 </details>
 
@@ -82,8 +82,8 @@ I have translated the raw findings into clear, department specific insights and 
 ### 1. Sales Overview
 <div align="center"> 
     <img src="images/salesoverview.png" width="900"> 
-<p><b>Fig. 1.</b> Overall sales performance and trends for 2025.</p>
 </div>
+<p><b>Fig. 1.</b> Overall sales performance and trends for 2025.</p>
 
 **Key Findings (2025)**
 - **Gross Revenue: \$13M** but declined by **2.1%** compared to last year
@@ -102,10 +102,11 @@ Revenue decline is driven by both lower order volume and AOV. Business growth mo
 
 <div align="center"> 
     <img src="images/pareto.png" width="400"> 
+</div> 
 <p>
 <b>Fig. 2.</b> Pareto analysis of product revenue showing that the top 15 products contribute approximately 80% of total gross revenue. The dotted line indicates the 80% cumulative revenue threshold used to identify the most impactful products.
 </p>
-</div> 
+
 
 **Key Findings**
 - Top 15 producst (out of 40) generates **78%** of total revenue. This products are heavily concentrated in Electronics, Furniture, and Clothing.
@@ -215,7 +216,7 @@ Logistics inefficiencies and product expectation mismatch are driving returns.Lo
 - Introduce proactive communication for delayed shipments
 - Provide pre filled return labels providing easy return options and asking for automated feedback of the products bought.
 
-##  Selected Business Questions (SQL)
+##  Selected Business Questions using SQL
 SQL queries are located in databses/queries and they answer key business questions such as:.
 - Which countries generate highest revenue?
 - How does revenue trend over time?
