@@ -193,15 +193,15 @@ Retention is weak indicating low customer lifetime value.
 > <table width="100%">
 >   <tr>
 >     <td align="center" width="50%">
->       <img src="images/returnreasons.png" width="100%"><br>
+>       <img src="images/returnreasons.png" width="100%" style="width:100%; display:block;"><br>
 >     </td>
 >     <td align="center" width="50%">
->       <img src="images/returntimedistribution.png" width="100%"><br>
+>       <img src="images/returntimedistribution.png" width="100%" style="width:100%; display:block;"><br>
 >     </td>
 >   </tr>
 >   <tr>
 >     <td colspan="2">
->       <b>Fig. 5a.</b> Top reasons for product returns.<b>5b.</b> CReturn time distribution.
+>       <b>Fig. 5a.</b> Top reasons for product returns.<b>5b.</b> Return time distribution.
 ></td></tr>
 > </table>
 >
