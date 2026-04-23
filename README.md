@@ -39,12 +39,17 @@ This is an end-to-end analytics project that transform raw transactional data in
 Each table is linked through **foreign keys**, ensuring logical relational structure.
 
 ### Entity-Relationship Diagram
-<div align="center">
-<img src="images/ER_diagram.png" width="900" height="450">
-<p><b>Fig. 0.</b> Entity Relationship Diagram. There are seven tables connected by dotted lines highlighting one to many relationships through foreign keys. </p>
-</div>
+>
+><table>
+><tr align="center">
+>  <img src="images/ER_diagram.png" alt="SalesOverview" width="100%">
+></tr>
+><tr>
+>  <b>Fig. 0.</b> Entity Relationship Diagram. There are seven tables connected by dotted lines highlighting one to many relationships through foreign keys.
+></tr>
+></table>
+>
 </details>
-
 
 ---
 <details>
@@ -77,13 +82,21 @@ GG Mart Stakeholders across different departments wants to better understand per
 [**View Tableau Dashboard**](https://public.tableau.com/views/GGMartDashboard/SalesOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Business Insights 
-I have translated the raw findings into clear, department specific insights and provided recommendations accordingly.
+This projects translate the raw findings into clear, department specific insights and provides recommendations accordingly.
 
 ### 1. Sales Overview
-<div align="center"> 
-    <img src="images/salesoverview.png" width="900"> 
-</div>
-<p><b>Fig. 1.</b> Overall sales performance and trends for 2025.</p>
+
+>
+><table>
+><tr align="center">
+>  <img src="images/salesoverview.png" alt="SalesOverview" width="100%">
+></tr>
+><tr>
+>  <b>Fig. 1. </b> Overall sales performance and trends for 2025.
+></tr>
+></table>
+>
+
 
 **Key Findings (2025)**
 - **Gross Revenue: \$13M** but declined by **2.1%** compared to last year
@@ -100,12 +113,16 @@ Revenue decline is driven by both lower order volume and AOV. Business growth mo
 
 ### 2. Product & Category Analysis
 
-<div align="center"> 
-    <img src="images/pareto.png" width="400"> 
-</div> 
-<p>
-<b>Fig. 2.</b> Pareto analysis of product revenue showing that the top 15 products contribute approximately 80% of total gross revenue. The dotted line indicates the 80% cumulative revenue threshold used to identify the most impactful products.
-</p>
+>
+><table>
+><tr align="center">
+>  <img src="images/pareto.png" alt="SalesOverview" width="100%">
+></tr>
+><tr>
+>  <b>Fig. 2. </b> Pareto analysis of product revenue showing that the top 15 products contribute approximately 80% of total gross revenue. The dotted line indicates the 80% cumulative revenue threshold used to identify the most impactful products.
+></tr>
+></table>
+>
 
 
 **Key Findings**
@@ -115,19 +132,22 @@ Revenue decline is driven by both lower order volume and AOV. Business growth mo
 - Several **Volume drivers** with **Low revenue but High quantity (LH)** are on the borderline and high probability of becoming  **Star Products**
 - **Speaker** is a clear **Underperformer** with **Low revenue and Low Quantity (LL)** indicating limited contribution and potential for repositioning.
 
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="images/productsegmentation.png" width="400"><br>
-      <b>Fig. 3(a).</b> Product segmentation into four quadrants using median of the product revenue and quantity of product sold. Dotted line shows the median.
-    </td>
-    <td align="center">
-      <img src="images/productquadrant.png" width="400"><br>
-      <b>Fig. 3(b).</b> List of products by the product quadrant classification in 3(a).
-    </td>
-  </tr>
-</table>
+>
+> <table width="100%">
+>   <tr>
+>     <td align="center" width="50%">
+>       <img src="images/productsegmentation.png" width="100%"><br>
+>     </td>
+>     <td align="center" width="50%">
+>       <img src="images/productquadrant.png" width="100%"><br>
+>     </td>
+>   </tr>
+>   <tr>
+>     <td colspan="2">
+>       <b>Fig. 3a.</b> Product segmentation into four quadrants using median of the product revenue and quantity of product sold. Dotted line shows the median.<b>3b.</b> Product Contribution and Segmentation Analysis. <b>Top row:</b> List of products by the product quadrant classification in 3(a).
+></td></tr>
+> </table>
+>
 
 
 - Top 5 products show identical seasonal peaks and declines indicating highly correlated demand.
@@ -139,23 +159,23 @@ Business is heavily reliant on small product group. Product demand cycle is high
 
 ### 3. Customer Analysis
 
+>
+> <table width="100%">
+>   <tr>
+>     <td align="center" width="50%">
+>       <img src="images/customersegmentation.png" width="100%"><br>
+>     </td>
+>     <td align="center" width="50%">
+>       <img src="images/customerdistributionorder.png" width="100%"><br>
+>     </td>
+>   </tr>
+>   <tr>
+>     <td colspan="2">
+>       <b>Fig. 4a.</b> Customer segmentation into High Value (Revenue $\ge$ 8000), Medium Value (Revenue $\ge$ 2500), and Low Value.<b>4b.</b> Customer distribution by order frequency.
+></td></tr>
+> </table>
+>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="images/customersegmentation.png" 
-           style="width: 400px; height: 300px; object-fit: contain; background-color: #f0f0f0;">
-      <br>
-      <b>Fig. 4(a).</b> Customer segmentation into High Value (Revenue $\ge$ 8000), Medium Value (Revenue $\ge$ 2500), and Low Value
-    </td>
-    <td align="center">
-      <img src="images/customerdistributionorder.png" 
-           style="width: 400px; height: 300px; object-fit: contain; background-color: #f0f0f0;">
-      <br>
-      <b>Fig. 4(b).</b> Customer distribution by order frequency.
-    </td>
-  </tr>
-</table>
 
 **Key Findings**
 - Total Customers is about 3.5K (reduced by 1.1% vs LY)
@@ -169,18 +189,22 @@ Retention is weak indicating low customer lifetime value.
 
 ### 3. Operations Insights
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="images/returnreasons.png" width="400"> <br>
-      <b>Fig. 5(a).</b> Top reasons for product returns.
-    </td>
-    <td align="center">
-      <img src="images/returntimedistribution.png" width="400"> <br>
-      <b>Fig. 5(b).</b> Return time distribution.
-    </td>
-  </tr>
-</table>
+>
+> <table width="100%">
+>   <tr>
+>     <td align="center" width="50%">
+>       <img src="images/returnreasons.png" width="100%"><br>
+>     </td>
+>     <td align="center" width="50%">
+>       <img src="images/returntimedistribution.png" width="100%"><br>
+>     </td>
+>   </tr>
+>   <tr>
+>     <td colspan="2">
+>       <b>Fig. 5a.</b> Top reasons for product returns.<b>5b.</b> Return time distribution.
+> </table>
+>
+
 
 **Key Findings**
 - Top return reasons are **No longer needed**, **Wrong Item**, **Size issues**
