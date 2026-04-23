@@ -201,7 +201,7 @@ Retention is weak indicating low customer lifetime value.
 >   </tr>
 >   <tr>
 >     <td colspan="2">
->       <b>Fig. 5a.</b> Top reasons for product returns. "No longer needed" leads, followed by "Wrong item" and "Size issues". <b>5b.</b> Return time distribution. Primary return window is 8-21 days post-order with minimal returns after 22 days.
+>       <b>Fig. 5a.</b> Top reasons for product returns. "No longer needed" leads, followed by "Wrong item" and "Size issues". <b>5b.</b> Return time distribution. Primary return window is 8-21 days after order with minimal returns in 22+ days.
 ></td></tr>
 > </table>
 >
