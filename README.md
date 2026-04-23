@@ -171,7 +171,7 @@ Business is heavily reliant on small product group. Product demand cycle is high
 >   </tr>
 >   <tr>
 >     <td colspan="2">
->       <b>Fig. 4a.</b> Customer segmentation into High Value (Revenue $\ge$ 8000), Medium Value (Revenue $\ge$ 2500), and Low Value.<b>4b.</b> Customer distribution by order frequency.
+>       <b>Fig. 4a.</b> Customer segmentation into High Value (Revenue $\ge$ \$8000), Medium Value (Revenue $\ge$ \$2500), and Low Value.<b>4b.</b> Customer distribution by order frequency.
 ></td></tr>
 > </table>
 >
@@ -190,7 +190,7 @@ Retention is weak indicating low customer lifetime value.
 ### 3. Operations Insights
 
 >
-> <table width="200%">
+> <table width="100%">
 >   <tr>
 >     <td align="center" width="50%">
 >       <img src="images/returnreasons.png" width="100%"><br>
@@ -202,6 +202,7 @@ Retention is weak indicating low customer lifetime value.
 >   <tr>
 >     <td colspan="2">
 >       <b>Fig. 5a.</b> Top reasons for product returns.<b>5b.</b> Return time distribution.
+></td></tr>
 > </table>
 >
 
