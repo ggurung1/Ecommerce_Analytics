@@ -171,7 +171,7 @@ Business is heavily reliant on small product group. Product demand cycle is high
 >   </tr>
 >   <tr>
 >     <td colspan="2">
->       <b>Fig. 4a.</b> Customer segmentation into High Value (Revenue $\ge$ \$8000), Medium Value (Revenue $\ge$ \$2500), and Low Value.<b>4b.</b> Customer distribution by order frequency.
+>       <b>Fig. 4a.</b> Customer segmentation into High Value (Revenue $\ge$ $8000), Medium Value (Revenue $\ge$ $2500), and Low Value.<b>4b.</b> Customer distribution by order frequency.
 ></td></tr>
 > </table>
 >
@@ -193,15 +193,15 @@ Retention is weak indicating low customer lifetime value.
 > <table width="100%">
 >   <tr>
 >     <td align="center" width="50%">
->       <img src="images/returnreasons.png" width="100%" style="width:100%; display:block;"><br>
+>       <img src="images/returnreasons.png" width="100%"><br>
 >     </td>
 >     <td align="center" width="50%">
->       <img src="images/returntimedistribution.png" width="100%" style="width:100%; display:block;"><br>
+>       <img src="images/returntimedistribution.png" width="100%"><br>
 >     </td>
 >   </tr>
 >   <tr>
 >     <td colspan="2">
->       <b>Fig. 5a.</b> Top reasons for product returns.<b>5b.</b> Return time distribution.
+>       <b>Fig. 5a.</b> Top reasons for product returns. "No longer needed" leads, followed by "Wrong item" and "Size issues". <b>5b.</b> Return time distribution. Primary return window is 8-21 days post-order with minimal returns after 22 days.
 ></td></tr>
 > </table>
 >
