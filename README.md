@@ -79,7 +79,7 @@ GG Mart Stakeholders across different departments wants to better understand per
 </details>
 
 
-[**View Tableau Dashboard**](https://public.tableau.com/views/GGMartDashboard/SalesOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[**View Tableau Dashboard**](https://public.tableau.com/views/GGMart/SalesOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Business Insights 
 This projects translate the raw findings into clear, department specific insights and provides recommendations accordingly.
@@ -92,7 +92,7 @@ This projects translate the raw findings into clear, department specific insight
 >  <img src="images/salesoverview.png" alt="SalesOverview" width="100%">
 ></tr>
 ><tr>
->  <b>Fig. 1. </b> Overall sales performance and trends for 2025.
+>  <b>Fig. 1. </b> Sales Overview Dashboard showing revenue metrics, category and regional performance, and time-series analysis.
 ></tr>
 ></table>
 >
@@ -144,7 +144,7 @@ Revenue decline is driven by both lower order volume and AOV. Business growth mo
 >   </tr>
 >   <tr>
 >     <td colspan="2">
->       <b>Fig. 3a.</b> Product segmentation into four quadrants using median of the product revenue and quantity of product sold. Dotted line shows the median.<b>3b.</b> Product Contribution and Segmentation Analysis. <b>Top row:</b> List of products by the product quadrant classification in 3(a).
+>       <b>Fig. 3a.</b> Product segmentation into four quadrants using median of the product revenue and quantity of product sold. Dotted line shows the median.<b>3b.</b>List of products by the product quadrant classification in 3(a).
 ></td></tr>
 > </table>
 >
@@ -190,7 +190,7 @@ Retention is weak indicating low customer lifetime value.
 ### 3. Operations Insights
 
 >
-> <table width="100%">
+> <table width="200%">
 >   <tr>
 >     <td align="center" width="50%">
 >       <img src="images/returnreasons.png" width="100%"><br>
